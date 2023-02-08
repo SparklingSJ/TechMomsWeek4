@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+nav {
+    border: 1px solid blueviolet;
+}
+
+main {
+    border: 1px solid orange
+}
+
+.flex-parent {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
